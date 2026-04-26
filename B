@@ -1,0 +1,31 @@
+**B**
+************************************************************************************************************************
+
+**Breezy.HR** (Job Search)
+
+This link helps you uncover job listings posted by companies using Breezy.HR. Just swap in any job title and location to instantly see relevant opportunities without hopping between sites.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:breezy.hr
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:breezy.hr
+
+________________________________________________________________________________________________________________________
+
+**Builder AWS**
+Builder.aws.com (also known as AWS Builder Center) is a community‑focused portal from Amazon Web Services where developers, architects, and cloud professionals connect, share knowledge, and explore technical content. It lets you engage with peers, contribute ideas, vote on feature suggestions, and tap into things like free AWS courses and workshops. What this really means is it’s built to help people learn, collaborate, and grow in AWS technologies beyond just using the cloud services themselves.
+
+Link: https://builder.aws.com/
+
+**Built in**
+Built In is a niche tech careers and community platform focused on connecting professionals with startups and tech companies.
+It offers curated job listings, company profiles, salary insights, and industry content tailored to specific U.S. tech hubs.
+Great for discovering tech roles and learning about company culture before applying.
+
+Link: https://builtin.com/
+
+**Busuu** (Learn Languages Online)
+
+Busuu is a platform for learning foreign languages through structured, bite-sized lessons and interaction with native speakers. It supports a wide range of languages and helps users build reading, writing, listening, and speaking skills at their own pace. The site offers free courses plus optional Premium features like grammar exercises, vocabulary training, and offline access — with community feedback helping you improve faster.
+
+Link: https://www.busuu.com/en
+
