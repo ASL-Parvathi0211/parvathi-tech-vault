@@ -1,0 +1,48 @@
+**C**
+************************************************************************************************************************
+
+**Career Builder**
+CareerBuilder.com is a long‑running job search site that connects candidates with employers across industries and experience levels.
+It offers job listings, resume tools, career resources, and salary insights all in one place.
+Good for broad job searches and exploring opportunities beyond just tech roles.
+
+Link: https://www.careerbuilder.com/
+
+**Careers Site** (Job Search)
+
+If a company uses a careers.* domain for their openings, this search format brings them all into one place.
+Change the job title and location to whatever you’re targeting, and you’ll get a quick list of relevant roles.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:careers
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:careers
+
+________________________________________________________________________________________________________________________
+
+**ChatBA** (AI-Powered Slide Deck Generator)
+
+This page belongs to ChatBA, a web tool that uses generative AI to turn simple prompts into complete presentation slide decks within seconds. It’s aimed at professionals, educators, or anyone needing polished slide decks fast, without spending hours on design or layout. The site supports easy input of topics or keywords and automatically builds structured, visually appealing presentations, saving time and effort for users.
+
+Link: https://www.chatba.com/#
+
+________________________________________________________________________________________________________________________
+
+**CodeSquire** (AI Coding Assistant for Data Pros)
+
+The website belongs to CodeSquire, an AI‑powered tool that helps data scientists, engineers, and analysts write code faster and more efficiently. It converts plain‑language comments into working code (Python, SQL, etc.), offers real‑time code suggestions, and can even generate complex functions or SQL queries on demand. It integrates with environments like Jupyter, Google Colab, BigQuery, or VS Code — ideal if you want to speed up data pipelines, analytics tasks, or automation with minimal boilerplate
+
+Link: https://codesquire.ai/
+
+**CodeWithCurious Online Store** (Coding Notes & e‑Books Hub)
+
+The page offers a variety of handwritten and digital notes, guides, and coding‑eBooks covering languages and topics like Python, JavaScript, HTML, CSS, data structures and algorithms, web development frameworks, and more. It packages resources as standalone books or bundled combos, aimed at learners seeking clear, concise notes for exam prep or self‑study. The store also includes project‑based resources and claims to support exam preparation, coding skill building, and long‑term learning retention.
+
+Link: https://store.codewithcurious.com/
+
+**CompTIA** (IT Certifications & Training Hub)
+
+The website belongs to CompTIA, a leading vendor‑neutral certification and training provider for IT professionals worldwide. You’ll find information on a wide range of certifications (from foundational like A+, Network+, Security+ to advanced specialties in cloud, data, and cybersecurity), plus resources and training materials to support career growth. The site also connects employers, students, and institutions with a global community aiming to build and validate tech skills.
+
+Link: https://www.comptia.org/en-us/
+
+
