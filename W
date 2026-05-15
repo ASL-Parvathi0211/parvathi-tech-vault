@@ -1,0 +1,59 @@
+**W**
+________________________________________________________________________________________________________________________________________________
+
+**Wellfound** (Job Search)
+
+This search pulls job postings from companies listed on Wellfound — a hub many startups and tech firms use. Simply swap in your desired job title and location to get a clean list of relevant openings.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:wellfound.com
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:wellfound.com
+
+**We Work Remotely**
+We Work Remotely is a job board dedicated to remote‑only positions across tech, design, customer support, and other professional fields.
+Companies post roles that don’t require a physical office, and you can filter listings by category and experience level.
+It’s widely used by people seeking location‑independent work without sifting through traditional, office‑based job boards.
+
+Link: https://weworkremotely.com/
+
+________________________________________________________________________________________________________________________________________________
+
+**WHO EMRO** (Advancing Public Health in the Eastern Mediterranean)
+
+The World Health Organization Regional Office for the Eastern Mediterranean (EMRO) serves 21 member states plus Palestinian territories, covering West Asia, North Africa, the Horn of Africa, and Central Asia. It focuses on strengthening health systems, managing disease outbreaks, promoting universal health coverage, and improving maternal and child health. EMRO provides training, research, and capacity-building programs, including online courses and certifications, to support public health professionals and institutions across the region.
+
+Link: https://www.emro.who.int/
+
+________________________________________________________________________________________________________________________________________________
+
+**WonsultingAI** (Job Search Made Easier)
+
+WonsultingAI is a platform that helps job seekers speed up their search with practical AI tools. You can create resumes, tailor them to roles, craft cover letters, prep for interviews, and track applications all in one place. The site is built to remove guesswork from the job hunt and give users clear, actionable steps to land interviews.
+
+Link: https://app.wonsulting.ai/login
+
+**Workable** (Jobs Search)
+
+This search pulls job openings from companies that post roles on Workable. Swap in any job title and location to get a focused list of opportunities without visiting each company’s careers page.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:jobs.workable.com
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:jobs.workable.com
+
+**Working Nomads**
+Working Nomads is a remote job aggregator that curates work‑from‑anywhere opportunities in tech, marketing, product, and support roles.
+It lets you browse or get emailed lists of remote openings filtered by category and experience level.
+People use it to find flexible, location‑independent jobs without digging through traditional job boards.
+
+Link: https://www.workingnomads.com/jobs
+
+________________________________________________________________________________________________________________________________________________
+
+**W3Resource**
+W3Resource is a free online platform that provides tutorials and practice exercises on programming, web development, and databases like SQL, Python, and JavaScript.
+It focuses heavily on hands-on learning with coding challenges, real-world examples, and interactive exercises to strengthen practical skills.
+
+Link: https://www.w3resource.com/index.php
+
+
+

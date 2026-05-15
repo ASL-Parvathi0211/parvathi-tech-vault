@@ -1,0 +1,39 @@
+**J**
+************************************************************************************************************************************************
+
+**JavaScript**
+JavaScript.jobs is a niche job board dedicated specifically to JavaScript-related roles, covering technologies like Node.js, React, Angular, Vue, Next.js, and TypeScript.
+It connects developers with companies hiring for frontend, backend, and full-stack positions, including remote, contract, and full-time opportunities.
+The platform is mainly used by JavaScript developers to find focused, high-relevance job listings without filtering through unrelated roles.
+
+Link: https://javascript.jobs/
+
+________________________________________________________________________________________________________________________________________________
+
+**Jobright**
+Jobright AI – AI job search platform
+ is an AI‑driven job search tool that matches your experience to relevant listings, tailors resumes, autofills applications, and helps you track or network your way to interviews.
+It pulls from millions of jobs, uses AI to score fit and reduce manual work, and aims to speed up the job hunt process.
+Some users love how fast it surfaces roles and customizes applications, but like any aggregator, you should still verify listings and details yourself.
+Link: https://jobright.ai/
+
+**Jobs Portal Search**
+
+This format lets you scan openings across a wide range of company job sites under the jobs. domain. Swap in any job title and location to pull focused listings in seconds.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:jobs
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:jobs
+
+________________________________________________________________________________________________________________________________________________
+
+**Just remote**
+JustRemote is a remote job platform that helps users find both fully and partially remote roles across fields like development, marketing, design, and customer support.
+It provides powerful search and filtering options to discover jobs from companies worldwide, including opportunities that aren’t widely advertised.
+The platform is mainly used by professionals looking for flexible, location-independent work and by companies hiring global talent without geographic limits.
+
+Link: https://justremote.co/
+
+
+
+

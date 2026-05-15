@@ -1,0 +1,30 @@
+**L**
+************************************************************************************************************************************************
+
+**Lever** (Job Search)
+
+This format lets you pull job openings from companies that use Lever for recruiting. Swap in any job title and location, and it filters the results instantly.
+
+Link Template: https://www.google.com/search?q=%22JOBTITLE%22+%22LOCATION%22+site:lever.co
+
+Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:lever.co
+
+________________________________________________________________________________________________________________________________________________
+
+**LinkedIn Learning**
+LinkedIn Learning is an online education platform with thousands of expert‑led video courses in business, technology, and creative subjects designed to help professionals learn new skills and upskill in their careers.
+It personalizes learning paths based on your goals and offers quizzes, exercise files, and certificates you can add to your LinkedIn profile after completion.
+The content ranges from beginner overviews to deeper skill refreshers across topics like cloud, data analysis, leadership, and software development.
+
+Link: https://www.linkedin.com/learning/
+
+________________________________________________________________________________________________________________________________________________
+
+**LipDub AI**
+LipDub AI is an AI‑powered tool that generates realistic lip‑synced video content, letting you translate, edit, or personalize dialogue in videos without reshooting. The platform uses proprietary AI to match lip movement to new audio tracks and supports professional‑grade features like voice cloning, multilingual dubbing, and high‑fidelity output for marketing, courses, and creative workflows. It’s aimed at helping teams scale video production and localization efficiently using AI lip‑sync technology.
+
+Link: https://www.lipdub.ai/
+
+
+
+

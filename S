@@ -1,0 +1,53 @@
+**S**
+________________________________________________________________________________________________________________________________________________
+
+**Scaler**
+Scaler Topics is a learning hub by Scaler Academy that covers deep‑dive articles, tutorials, and guides on programming, data structures, system design, and software engineering concepts.
+It’s built to help learners strengthen core tech skills, prepare for interviews, and understand advanced topics through clear explanations and examples.
+
+Link: https://www.scaler.com/topics/
+
+________________________________________________________________________________________________________________________________________________
+
+**Shiksha**
+Shiksha Online Courses Summary
+ is a part of Shiksha.com, a large education portal that helps learners find and compare online programs in technology, business, data science, management, and more. It aggregates courses from major providers like Coursera, edX, Udemy, and Udacity so you can search and filter based on your career goals.
+The page lists thousands of options — from certificates and bachelor’s degrees to specialized training — with reviews and filters to match skills and interests.
+
+Link: https://www.shiksha.com/online-courses
+
+________________________________________________________________________________________________________________________________________________
+
+**Simplilearn**
+Simplilearn is an online learning platform that offers professional certification courses in areas like data science, AI, cloud computing, and project management.
+Founded in 2010, it provides live classes, hands-on projects, and programs in collaboration with top universities and companies
+
+Link: https://www.simplilearn.com/
+
+________________________________________________________________________________________________________________________________________________
+
+**Springboard**
+
+The Springboard blog is a resource hub focused on career growth in tech fields like data analytics, data science, coding, and cybersecurity.
+It offers guides, roadmaps, project ideas, and certifications to help learners build skills and transition into tech roles.
+The content is designed to educate and support professionals with practical insights, industry trends, and job-focused learning advice.
+
+Link: https://www.springboard.com/blog/
+
+________________________________________________________________________________________________________________________________________________
+
+**SQL School**
+SQL School is an online training platform focused on SQL Server, T-SQL, database administration, and data engineering skills through practical, real-time learning.
+It offers live and self-paced courses with hands-on labs, real-world projects, and topics like SSIS, SSRS, Azure SQL, and ETL tools.
+
+Link: https://sqlschool.com/
+
+________________________________________________________________________________________________________________________________________________
+
+**Startup Jobs**
+Startup.jobs is a job board focused on startup and early‑stage company roles worldwide.
+It lists positions across tech, product, design, and business functions with an emphasis on fast‑growth environments.
+Useful if you’re targeting startup culture and roles with more impact and ownership.
+
+Link: https://startup.jobs/
+

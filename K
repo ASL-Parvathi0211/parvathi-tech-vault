@@ -1,0 +1,12 @@
+**K**
+************************************************************************************************************************************************
+
+**Keka.com** (Job Search)
+
+This search helps you find job openings listed on Keka.com. Simply replace the job title and location to quickly access relevant opportunities without navigating through multiple pages.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:keka.com
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:keka.com
+
+

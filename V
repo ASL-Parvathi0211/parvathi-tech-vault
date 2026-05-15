@@ -1,0 +1,30 @@
+**V**
+________________________________________________________________________________________________________________________________________________
+
+**VisuAlgo** (Visualise Data Structures & Algorithms Online)
+
+This website provides interactive animations that show how data structures and algorithms work step‑by‑step — from basic sorts and lists to complex graph algorithms and dynamic programming. It lets you experiment with inputs, control the flow of execution, and watch how structures evolve or algorithms traverse data. VisuAlgo makes abstract CS concepts much easier to understand, and includes quizzes so you can test your knowledge as you learn.
+
+Link: https://visualgo.net/en
+
+________________________________________________________________________________________________________________________________________________
+
+**Voicemaker** (Online Text-to-Speech Converter)
+
+A web tool that turns written text into realistic spoken audio — supporting multiple languages, accents, and voice styles. Ideal for creators working on audiobooks, podcasts, social-media videos, or e-learning content. The audio files you generate can be used commercially and shared freely even after a subscription ends
+
+Link: https://voicemaker.in/
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+
+
+________________________________________________________________________________________________________________________________________________
+

@@ -1,0 +1,46 @@
+**G**
+************************************************************************************************************************************************
+
+**GeeksforGeeks**
+GeeksforGeeks is a popular online learning platform focused on programming, data structures, algorithms, and technical interview preparation.
+It provides tutorials, coding problems, courses, and real-world examples to help students and professionals build strong computer science fundamentals.
+The platform follows a “learn, practice, and excel” approach, making it a go-to resource for upskilling and job preparation in tech.
+
+Link: https://www.geeksforgeeks.org/
+
+________________________________________________________________________________________________________________________________________________
+
+**GitHubProfileGenertate**
+
+A web-based generator that helps you build a sleek GitHub profile README in minutes. Pick your languages, tech stack, projects, socials, and optional stats; it spits out ready-to-copy markdown that makes your profile stand out. Great for anyone who wants a clean, professional GitHub presence without writing everything from scratch.
+
+Link:https://githubprofile.com/
+
+________________________________________________________________________________________________________________________________________________
+
+**GPRM**
+
+A simple online tool that builds a polished GitHub profile README in minutes. You pick your details, stats, and tech stack, and it generates clean markdown you can paste straight into your profile. Great way to level up your GitHub presence without writing everything from scratch.
+
+Link: https://gprm.itsvg.in/
+
+________________________________________________________________________________________________________________________________________________
+
+**Greenhouse** (Job Search)
+
+Use this link format to pull job listings for any position directly from companies that use Greenhouse. Just replace the role and location.
+
+Link template:https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:greenhouse.io
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:greenhouse.io
+
+________________________________________________________________________________________________________________________________________________
+
+**Grow with Google** (Free Learning & Career Tools)
+
+Grow with Google is a platform offering free courses, tools, and resources to help individuals build digital skills, advance their careers, or start small businesses. It covers topics like data analytics, cloud computing, career development, and interview preparation — all designed to be accessible to beginners and experienced professionals alike. Users can learn at their own pace and apply new skills directly to job searches or professional growth. The offerings aim to make tech and career‑learning more inclusive and practical for a broad audience.
+
+Link: https://grow.google/
+
+
+

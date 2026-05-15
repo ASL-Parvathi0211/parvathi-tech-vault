@@ -1,0 +1,29 @@
+**T**
+________________________________________________________________________________________________________________________________________________
+
+**Talent-Domain** (Job Search)
+
+This search pulls job openings from companies that list roles under the talent.* domain.
+Just replace the job title and location to see relevant opportunities quickly, without visiting each company site individually.
+
+Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:talent
+
+Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:talent
+
+________________________________________________________________________________________________________________________________________________
+
+**The Index Luke**
+Use The Index, Luke is a free online resource that teaches SQL indexing and performance tuning for developers.
+It explains how indexes work and how to write efficient queries across databases like MySQL, PostgreSQL, Oracle, and SQL Server.
+
+Link: https://use-the-index-luke.com/
+
+**The NewYork times**
+jobs.nytimes.com is The New York Times’ official job board hosting curated job listings across industries.
+You’ll find roles in journalism, tech, business, and corporate functions with direct postings from employers.
+It’s useful if you’re targeting reputable companies and a mix of specialized and general career opportunities.
+
+Link: https://jobs.nytimes.com/
+
+
+
