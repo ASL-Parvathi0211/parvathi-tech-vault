@@ -1,5 +1,5 @@
 **S**
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 **Scaler**
 Scaler Topics is a learning hub by Scaler Academy that covers deep‑dive articles, tutorials, and guides on programming, data structures, system design, and software engineering concepts.
@@ -7,7 +7,7 @@ It’s built to help learners strengthen core tech skills, prepare for interview
 
 Link: https://www.scaler.com/topics/
 
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 **Shiksha**
 Shiksha Online Courses Summary
@@ -16,7 +16,7 @@ The page lists thousands of options — from certificates and bachelor’s degre
 
 Link: https://www.shiksha.com/online-courses
 
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 **Simplilearn**
 Simplilearn is an online learning platform that offers professional certification courses in areas like data science, AI, cloud computing, and project management.
@@ -24,7 +24,7 @@ Founded in 2010, it provides live classes, hands-on projects, and programs in co
 
 Link: https://www.simplilearn.com/
 
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 **Springboard**
 
@@ -34,7 +34,7 @@ The content is designed to educate and support professionals with practical insi
 
 Link: https://www.springboard.com/blog/
 
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 **SQL School**
 SQL School is an online training platform focused on SQL Server, T-SQL, database administration, and data engineering skills through practical, real-time learning.
@@ -42,7 +42,7 @@ It offers live and self-paced courses with hands-on labs, real-world projects, a
 
 Link: https://sqlschool.com/
 
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 **Startup Jobs**
 Startup.jobs is a job board focused on startup and early‑stage company roles worldwide.
@@ -50,4 +50,14 @@ It lists positions across tech, product, design, and business functions with an 
 Useful if you’re targeting startup culture and roles with more impact and ownership.
 
 Link: https://startup.jobs/
+
+___________________________________________________________________________________________________________________________________________________________________
+
+**SEVP Portal**
+SEVP Portal is an online system that allows F-1 students on OPT and STEM OPT to report employment information, update personal details, and maintain compliance with U.S. immigration regulations. It is essential for keeping student records accurate and meeting reporting requirements set by the Student and Exchange Visitor Program (SEVP).
+
+Link: https://www.ice.gov/sevis
+
+___________________________________________________________________________________________________________________________________________________________________
+
 
