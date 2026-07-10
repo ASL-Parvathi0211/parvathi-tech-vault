@@ -1,6 +1,14 @@
 **H**
 **********************************************************************************************************************************************************************
 
+**Hacker Rank**
+HackerRank – Online coding platform for practicing and assessing programming skills in Python, SQL, Data Structures, Algorithms, and problem-solving.
+Used for technical interview preparation, coding challenges, and evaluating developer skills across various programming domains.
+
+Link: https://www.hackerrank.com/
+
+___________________________________________________________________________________________________________________________________________________________________
+
 **Himalayas**
 Himalayas Jobs is a remote job platform that connects professionals with companies offering fully remote roles across tech, marketing, design, and other fields.
 It aggregates and verifies job listings from company career pages and direct postings, ensuring roles are legitimate and genuinely remote.
@@ -8,14 +16,14 @@ The platform also provides filters by skills, salary, timezone, and job type, al
 
 Link: https://himalayas.app/jobs
 
-__________**********__________**********__________**********__________**********__________**********__________**********__________**********__________**********______
+__________**********__________**********__________**********__________**********__________**********__________**********__________**********__________**********___
 
 **Hiration**
 Hiration LinkedIn Review is an AI-powered LinkedIn profile analyzer that evaluates your profile headline, summary, skills, experience, and overall completeness, providing personalized recommendations to improve visibility and attract recruiters. It helps job seekers optimize their LinkedIn presence, strengthen professional branding, and increase their chances of getting interview opportunities.
 
 Link: https://www.hiration.com/app/linkedin-review/dashboard
 
-______________________________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 
 
