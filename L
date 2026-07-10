@@ -1,15 +1,14 @@
 **L**
-************************************************************************************************************************************************
+*******************************************************************************************************************************************************************
 
 **Lever** (Job Search)
-
 This format lets you pull job openings from companies that use Lever for recruiting. Swap in any job title and location, and it filters the results instantly.
 
 Link Template: https://www.google.com/search?q=%22JOBTITLE%22+%22LOCATION%22+site:lever.co
 
 Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:lever.co
 
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 **LinkedIn Learning**
 LinkedIn Learning is an online education platform with thousands of expert‑led video courses in business, technology, and creative subjects designed to help professionals learn new skills and upskill in their careers.
@@ -18,12 +17,28 @@ The content ranges from beginner overviews to deeper skill refreshers across top
 
 Link: https://www.linkedin.com/learning/
 
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 **LipDub AI**
 LipDub AI is an AI‑powered tool that generates realistic lip‑synced video content, letting you translate, edit, or personalize dialogue in videos without reshooting. The platform uses proprietary AI to match lip movement to new audio tracks and supports professional‑grade features like voice cloning, multilingual dubbing, and high‑fidelity output for marketing, courses, and creative workflows. It’s aimed at helping teams scale video production and localization efficiently using AI lip‑sync technology.
 
 Link: https://www.lipdub.ai/
+
+___________________________________________________________________________________________________________________________________________________________________
+
+**Luma**
+Luma is an event management and community platform that helps individuals, startups, and organizations create events, manage registrations, send invitations, sell tickets, and build communities. It is widely used for tech meetups, networking events, conferences, workshops, hackathons, and online events.
+
+Link: https://luma.com/
+
+___________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
 
 
 
