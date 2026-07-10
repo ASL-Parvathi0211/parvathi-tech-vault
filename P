@@ -1,16 +1,14 @@
 **P**
-************************************************************************************************************************************************
+*******************************************************************************************************************************************************************
 
 **Pathfinding Visualizer** (Algorithm Animation Playground)
-
 This page hosts an interactive web tool for visually exploring how different path‑finding and maze‑generation algorithms work. You can pick an algorithm (like A*, Dijkstra, BFS, DFS, etc.), add walls or weights on a grid, then watch in real time how the algorithm searches for a path — step by step. It’s a hands‑on way to learn graph theory, algorithm behavior, and see the difference between search strategies and heuristics in action
 
 Link: https://clementmihailescu.github.io/Pathfinding-Visualizer/
 
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 **People-Domain** (Job Search)
-
 This format pulls job openings from companies that host their careers under the people.* domain.
 Swap the job title and location to target whatever roles you’re after and get a clean set of results in one shot.
 
@@ -18,13 +16,13 @@ Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:people
 
 Link: https://www.google.com/search?q=%22Data+Engineer%22+%22USA%22+site:people
 
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 **Pic Copilot**
 Pic Copilot is an AI‑driven content creation platform designed for e‑commerce brands to generate professional product visuals without needing a full design team or studio. It uses AI to produce things like virtual fashion models, product image enhancements, background removal, translated visuals, and marketing templates that aim to increase engagement and conversions for online stores. The tools are especially used by sellers on marketplaces like Amazon, Shopify, and Etsy to speed up visual asset production and improve listing performance.
 
 Link: https://www.piccopilot.com/
-
+__________**********__________**********__________**********__________**********__________**********__________**********__________**********__________**********___
 **PinpointHQ** (Job Search)
 
 Use this link format to find jobs from companies that hire through PinpointHQ. Swap in any job title and location.
@@ -33,20 +31,29 @@ Link Template: https://www.google.com/search?q="JOBTITLE"+"LOCATION"+site:pinpoi
 
 Link: https://www.google.com/search?q="Data+Engineer"+"USA"+site:pinpointhq.com
 
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 **Playground** (AI-powered Graphic Design & Image Creation)
-
 A web platform that helps you design logos, social-media posts, t-shirts, posters and more — using AI to turn text prompts into visuals or to remix existing designs. It offers a library of templates to jumpstart projects, then lets you tweak styles, layout, and graphics until you get what you want. Good for people without design skills who still need polished artwork fast.
 
 Link: https://playground.com/
 
-________________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________
 
 **Profile-Readme-Generator**
-
 An easy online tool that creates a complete GitHub profile README fast. Just enter your details, socials, skills, and projects — it outputs ready-to-paste markdown so your GitHub profile instantly looks sharp. Perfect if you want a clean, professional presence without writing the README yourself.
 
 Link:https://profile-readme-generator.com/
+
+___________________________________________________________________________________________________________________________________________________________________
+
+**Python Tutor**
+Python Tutor is an interactive code visualization platform that helps users learn and debug programs by showing step-by-step execution, variables, memory usage, and data structures. It supports Python, Java, C, C++, and JavaScript, making it a valuable learning tool for students, educators, and developers.
+
+Link: https://pythontutor.com/index.html
+
+___________________________________________________________________________________________________________________________________________________________________
+
+
 
 
