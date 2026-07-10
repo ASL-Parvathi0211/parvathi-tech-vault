@@ -1,6 +1,13 @@
 **L**
 *******************************************************************************************************************************************************************
 
+**Leet Code**
+LeetCode is an online coding practice platform that helps developers improve programming skills through algorithm, data structure, database, and competitive programming problems. It is widely used for technical interview preparation, coding assessments, and practicing languages like Python, Java, C++, JavaScript, SQL, and more.
+
+Link: https://leetcode.com/
+
+__________**********__________**********__________**********__________**********__________**********__________**********__________**********__________**********___
+
 **Lever** (Job Search)
 This format lets you pull job openings from companies that use Lever for recruiting. Swap in any job title and location, and it filters the results instantly.
 
