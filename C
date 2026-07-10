@@ -27,6 +27,14 @@ Link: https://www.chatba.com/#
 
 ___________________________________________________________________________________________________________________________________________________________________
 
+**Cloudflare Developers**
+Cloudflare Developers – Developer platform providing documentation, APIs, and tools for building applications using Cloudflare services like Workers, AI, storage, databases, security, and networking solutions.
+Used for learning serverless development, cloud deployment, edge computing, CDN, cybersecurity, and integrating Cloudflare APIs into applications.
+
+Link: https://developers.cloudflare.com/
+
+__________**********__________**********__________**********__________**********__________**********__________**********__________**********__________**********___
+
 **Code Squire** (AI Coding Assistant for Data Pros)
 The website belongs to CodeSquire, an AI‑powered tool that helps data scientists, engineers, and analysts write code faster and more efficiently. It converts plain‑language comments into working code (Python, SQL, etc.), offers real‑time code suggestions, and can even generate complex functions or SQL queries on demand. It integrates with environments like Jupyter, Google Colab, BigQuery, or VS Code — ideal if you want to speed up data pipelines, analytics tasks, or automation with minimal boilerplate
 
