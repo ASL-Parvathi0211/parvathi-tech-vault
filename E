@@ -1,12 +1,22 @@
 **E**
 ************************************************************************************************************************************************
 
+**EdClub**
+EdClub – Online learning platform that provides typing practice, keyboarding skills, coding activities, and educational games for students and learners.
+Used for improving typing speed, accuracy, computer literacy, and interactive learning through gamified exercises.
+
+Link: https://www.edclub.com/
+
+__________**********__________**********__________**********__________**********__________**********__________**********__________**********__________**********___
+
 **Edureka**
 Edureka is an online education platform offering instructor-led courses in trending technologies like data science, AI, cloud computing, and programming.
 It focuses on hands-on learning through live classes, real-world projects, and 24/7 support to help professionals upskill effectively.
 With a global learner base across 100+ countries, it aims to make technical education accessible, practical, and career-oriented.
 
 Link: https://www.edureka.co/
+
+__________**********__________**********__________**********__________**********__________**********__________**********__________**********__________**********___
 
 **EDX**
 
@@ -15,5 +25,12 @@ It allows learners to study at their own pace, often for free, with the option t
 The platform focuses on career-oriented skills across fields like data science, AI, business, and more, helping millions worldwide upskill and grow professionally.
 
 Link: https://www.edx.org/
+
+___________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
 
 
