@@ -1,5 +1,11 @@
 **N**
-************************************************************************************************************************************************
+**********************************************************************************************************************************************************************
+
+**NASA Open Science Training**
+NASA Open Science Training is a free learning platform that helps researchers, students, and professionals understand and apply open science principles, including open data, open-source software, and collaborative research practices. It offers self-paced courses such as Open Science Essentials and Open Science 101, along with certificates and digital badges upon completion.
+Link: https://science.nasa.gov/open-science/
+
+______________________________________________________________________________________________________________________________________________________________________
 
 **Nodesk**
 Nodesk is a job marketplace that connects remote‑friendly companies with professionals looking for distributed work, including tech, design, marketing, and operations roles.
@@ -7,4 +13,7 @@ It focuses on flexible, location‑independent opportunities and provides tools 
 The platform is used by remote job seekers and companies that want to hire talent without geographic limits.
 
 Link: https://nodesk.co/
+
+______________________________________________________________________________________________________________________________________________________________________
+
 
